@@ -1,4 +1,4 @@
-Assignment – 17
+Assignment â€“ 17
 Constraining the Values of your data.
 1) Create the Orders table so that all onum values as well as all combinations of
 cnum and snum are different from one another, and so that NULL values are
